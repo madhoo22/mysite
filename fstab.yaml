@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/1/folders/1wjaXSd1jGzFupGMqWt308fxq7IgzlgKi
+  /: mountpoints:
+  /:
+    url: https://content.da.live/madhoo22/mysite/
+    type: markup
